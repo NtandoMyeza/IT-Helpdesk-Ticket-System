@@ -4,12 +4,12 @@ A professional, user-friendly internal support system for managing IT issues and
 
 ## Features
 
-✅ **Log IT Issues** - Users can submit new support tickets with descriptions
-✅ **View Tickets** - Display all submitted tickets in a clean, organized table
-✅ **Change Status** - Update ticket status (Open / In Progress / Closed)
-✅ **Assign Priority** - Set priority levels (Low / Medium / High)
-✅ **Delete Tickets** - Remove resolved or unnecessary tickets
-✅ **Professional UI** - Modern, responsive design with gradient themes
+**Log IT Issues** - Users can submit new support tickets with descriptions
+**View Tickets** - Display all submitted tickets in a clean, organized table
+**Change Status** - Update ticket status (Open / In Progress / Closed)
+**Assign Priority** - Set priority levels (Low / Medium / High)
+**Delete Tickets** - Remove resolved or unnecessary tickets
+**Professional UI** - Modern, responsive design with gradient themes
 
 ## Requirements
 - PHP 7.0+
@@ -98,13 +98,6 @@ Or with your configured virtual host:
 - Check that priority dropdown is properly selected
 - Verify JavaScript is enabled in your browser
 
-## Browser Compatibility
-
-- Chrome 90+
-- Firefox 88+
-- Safari 14+
-- Edge 90+
-
 ## Future Enhancements
 
 - User authentication and authorization
@@ -115,9 +108,6 @@ Or with your configured virtual host:
 - SLA tracking
 - Analytics and reporting
 
-## Support
-
-For issues or questions, please contact your IT department.
 
 ---
 
